@@ -13,6 +13,7 @@ void main()
     {
         	printf("Error in Reading File\n");
         	exit (0);
+   	}
 	while(1)
 	{
       if(fscanf(fr1,"%d", &array[i++]) == EOF) break;
