@@ -2,3 +2,7 @@
 ffgfghffggf
 jhhgghhggh
 hhghh
+
+
+1---------------
+git status
